@@ -10,10 +10,6 @@
 
 "use strict";
 
-function createCharacter(name, gender, characterClass) {
-  // TODO: Implement this function
-}
-
 document.getElementById("generateHero").addEventListener("click", function(e) {
   e.preventDefault();
 
